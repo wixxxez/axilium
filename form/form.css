@@ -1,0 +1,245 @@
+html {
+    -ms-overflow-style: none;  /* IE 10+ */
+    scrollbar-width: none; /* Firefox */
+}
+
+/* Тільки для Internet Explorer 10 і 11 */
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) and (min-width: 768px) {
+	.probootstrap-section {
+		padding-top: 50px;
+	}
+	.sticky-top {
+		position: fixed;   
+		width: 100%;                    
+  		position: sticky;
+  		z-index: 10000;
+	}
+
+	.input.ua:before {
+   		top: 94px;
+	}	
+}
+
+/* Тільки для Edge */
+@supports (-ms-ime-align:auto) {
+
+	.probootstrap-section {
+		padding-top: 50px;
+	}
+
+	section.profile {
+		padding-top: 50px;
+	}
+
+	.sticky-top {
+		position: fixed;   
+		width: 100%;                    
+  		position: sticky;
+  		z-index: 10000;
+	}
+
+	.input.ua:before {
+   		top: 106px;
+	}	
+
+	@media (max-width: 768px) {
+		.input.ua:before {
+   			top: 186px;
+		}
+	}
+}
+
+/* Тільки для Mozilla */
+@-moz-document url-prefix()  {
+	
+	@media (min-width: 768px) {
+		.input.ua:before {
+   			top: 108px;
+		}
+	}
+	
+	@media (max-width: 767px) {
+		.input.ua:before {
+   			top: 187px;
+		}
+	}
+}
+
+#fixed {
+	position: absolute;
+	z-index: 1001;
+	float: right;
+	text-align: right;
+	padding-right: 20px;
+	padding-top: 90px;
+	left: 91%;
+}
+
+#fixed .widget {
+	height: 90px;
+	width: 100px;
+}
+
+input.string.required {
+	height: auto;	
+}
+
+.btn-tertiary {
+	color: #555;
+	padding: 0;
+	line-height: 40px;
+	width: 100%;
+	margin: auto;
+	display: block;
+	border: 1px solid #c2c2c2;
+	margin-bottom: 10px;
+}
+
+.btn-tertiary:hover,
+.example-2 .btn-tertiary:focus {
+	color: #000;
+	border-color: #888;
+}
+
+.input-file {
+	width: .1px;
+	height: .1px;
+	opacity: 0;
+	overflow: hidden;
+	position: absolute;
+	z-index: -1;
+}
+
+.input-file + .js-labelFile {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	padding: 0 10px;
+	cursor: pointer; 
+}
+
+.input-file + .js-labelFile .icon:before {
+	content: "\f093";
+}
+
+.input-file + .js-labelFile.has-file .icon:before {
+	content: "\f00c";
+	color: #5AAC7B;
+}
+
+.sp-button.green.with-icon span.icon {
+	padding-right: 15px;
+}
+
+.to-top {
+	cursor: pointer;
+    width: 45px;
+    height: 45px;
+    font-size: 18px;
+    line-height: 38px;
+    border-radius: 50%;
+    position: fixed;
+	right: 25px;
+    bottom: 25px;
+    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+    z-index: 20;
+    transition: .3s all ease;
+    box-shadow: 0 0 1px 0 rgba(159,159,159,.3);
+    color: #fff;
+    background: linear-gradient(#011233, #025688);
+}
+
+.to-top.active {
+    transform: translateY(0);
+}
+
+.fa-angle-up {
+	padding-top: 13px;
+	color: #fff;
+}
+
+::-webkit-scrollbar {
+	width: 0;
+}
+
+#progressbar {
+	position: fixed;
+	top: 0;
+	right: 0;
+	width: 12px;
+	border-radius: 10px;
+	z-index: 1000;
+	background: linear-gradient(to top, #6d0290, #0066bd, #00f3ff);
+}
+
+@media (max-width: 1024px) {
+	#fixed {
+		left: 90%;
+	}
+}
+
+@media (max-width: 991px) {
+	.dropdown.avtorization {
+		float: right;
+	}
+
+	.to-top {
+		right: 10px;
+		bottom: 10px;
+		width: 40px;
+		height: 40px;
+	}
+
+	.fa-angle-up {
+		padding-top: 0;
+	}
+
+	#fixed {
+    	padding-top: 60px;
+    }
+
+    #fixed .widget {
+		height: 80px;
+		width: 80px;
+	}
+}
+
+@media (max-width: 768px) {
+	#fixed {
+		left: 87%;
+	}
+}
+
+@media (max-width: 625px) {
+	#fixed {
+		left: 85%;
+	}	
+}
+
+@media (max-width: 425px) {
+	.dropdown.avtorization {
+		float: none;
+	}
+
+	#fixed {
+		left: 79%;
+	}
+}
+
+@media (max-width: 375px) {
+	#fixed {
+		left: 75%;
+	}	
+}
+
+@media (max-width: 320px) {
+	.input.ua:before {
+   		top: 191px;
+	}
+
+	#fixed {
+		left: 71%;
+	}
+}

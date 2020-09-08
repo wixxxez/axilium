@@ -1,0 +1,1573 @@
+[03-Feb-2020 22:02:48 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profile.php on line 63
+[04-Feb-2020 11:41:30 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profile.php on line 45
+[04-Feb-2020 20:45:43 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profile.php on line 45
+[04-Feb-2020 20:46:24 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 31
+[04-Feb-2020 21:08:39 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 31
+[04-Feb-2020 21:08:52 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 31
+[04-Feb-2020 21:18:18 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profile.php on line 45
+[05-Feb-2020 02:11:28 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/mail.php on line 15
+[05-Feb-2020 02:12:20 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/mail.php on line 15
+[05-Feb-2020 02:19:34 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/axiliumb/public_html/mail.php on line 37
+[05-Feb-2020 03:30:52 UTC] PHP Fatal error:  Call to undefined function welcome() in /home/axiliumb/public_html/login.php on line 37
+[05-Feb-2020 03:33:39 UTC] PHP Fatal error:  Call to undefined function welcome() in /home/axiliumb/public_html/login.php on line 36
+[05-Feb-2020 16:34:51 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[06-Feb-2020 20:36:02 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/mail.php on line 52
+[11-Feb-2020 07:29:56 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[18-Feb-2020 08:39:41 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[19-Feb-2020 08:40:10 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[19-Feb-2020 08:40:15 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[19-Feb-2020 08:40:18 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[19-Feb-2020 08:40:32 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[19-Feb-2020 08:40:37 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[19-Feb-2020 08:40:45 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[19-Feb-2020 08:44:42 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[19-Feb-2020 08:44:48 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[24-Feb-2020 14:35:41 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 358
+[24-Feb-2020 14:35:49 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 358
+[24-Feb-2020 14:35:58 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 358
+[24-Feb-2020 14:36:26 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 358
+[24-Feb-2020 14:38:29 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 12
+[24-Feb-2020 14:38:37 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 358
+[24-Feb-2020 14:38:44 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 358
+[24-Feb-2020 14:55:33 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 357
+[24-Feb-2020 14:56:29 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 357
+[25-Feb-2020 06:35:58 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 12
+[25-Feb-2020 06:36:03 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 12
+[25-Feb-2020 06:36:07 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 12
+[25-Feb-2020 06:36:11 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 12
+[25-Feb-2020 06:36:16 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 12
+[25-Feb-2020 06:36:52 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 12
+[25-Feb-2020 07:12:10 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 12
+[25-Feb-2020 08:03:29 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[27-Feb-2020 12:05:44 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 12
+[28-Feb-2020 13:30:22 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 13
+[28-Feb-2020 13:31:09 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 13
+[28-Feb-2020 13:31:13 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 13
+[28-Feb-2020 13:31:17 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 13
+[07-Mar-2020 17:22:04 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/axiliumb/public_html/curl.php on line 13
+[07-Mar-2020 17:23:10 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/axiliumb/public_html/patient.php on line 88
+[07-Mar-2020 17:23:25 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/axiliumb/public_html/patient.php on line 88
+[07-Mar-2020 17:23:27 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/axiliumb/public_html/patient.php on line 88
+[07-Mar-2020 17:23:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/axiliumb/public_html/patient.php on line 88
+[07-Mar-2020 17:23:36 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/axiliumb/public_html/patient.php on line 88
+[07-Mar-2020 17:24:14 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/axiliumb/public_html/patient.php on line 88
+[07-Mar-2020 17:24:16 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/axiliumb/public_html/patient.php on line 88
+[07-Mar-2020 17:24:22 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/axiliumb/public_html/patient.php on line 88
+[07-Mar-2020 17:24:33 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/axiliumb/public_html/patient.php on line 88
+[07-Mar-2020 17:30:42 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/axiliumb/public_html/curl.php on line 13
+[07-Mar-2020 17:31:31 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/axiliumb/public_html/curl.php on line 13
+[07-Mar-2020 17:31:50 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/axiliumb/public_html/curl.php on line 13
+[07-Mar-2020 17:32:18 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/axiliumb/public_html/curl.php on line 13
+[07-Mar-2020 17:32:33 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/axiliumb/public_html/curl.php on line 13
+[07-Mar-2020 17:32:33 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/axiliumb/public_html/curl.php on line 13
+[08-Mar-2020 20:35:11 UTC] PHP Fatal error:  Uncaught [HY093] - SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `tr...', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('INSERT INTO `tr...', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('INSERT INTO `tr...', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'INSERT INTO `tr...', Array)
+#4 /home/axiliumb/public_html/patient.php(93): RedBeanPHP\Facade::exec('INSERT INTO `tr...', Array)
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[08-Mar-2020 20:35:15 UTC] PHP Fatal error:  Uncaught [HY093] - SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `tr...', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('INSERT INTO `tr...', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('INSERT INTO `tr...', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'INSERT INTO `tr...', Array)
+#4 /home/axiliumb/public_html/patient.php(93): RedBeanPHP\Facade::exec('INSERT INTO `tr...', Array)
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[08-Mar-2020 20:35:55 UTC] PHP Fatal error:  Uncaught [HY093] - SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `tr...', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('INSERT INTO `tr...', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('INSERT INTO `tr...', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'INSERT INTO `tr...', Array)
+#4 /home/axiliumb/public_html/patient.php(93): RedBeanPHP\Facade::exec('INSERT INTO `tr...', Array)
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[08-Mar-2020 20:36:20 UTC] PHP Fatal error:  Uncaught [HY093] - SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('INSERT INTO `tr...', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('INSERT INTO `tr...', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('INSERT INTO `tr...', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'INSERT INTO `tr...', Array)
+#4 /home/axiliumb/public_html/patient.php(93): RedBeanPHP\Facade::exec('INSERT INTO `tr...', Array)
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[08-Mar-2020 20:47:30 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Some arguments missed: amount. Check next methods are called: 
+
+setAmount(...)' in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php:37
+Stack trace:
+#0 /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/PurchaseWizard.php(435): WayForPay\SDK\Wizard\BaseWizard->check()
+#1 /home/axiliumb/public_html/widget.php(35): WayForPay\SDK\Wizard\PurchaseWizard->getForm()
+#2 /home/axiliumb/public_html/patient.php(92): create_widget(Array)
+#3 {main}
+  thrown in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php on line 37
+[08-Mar-2020 20:51:08 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Some arguments missed: amount. Check next methods are called: 
+
+setAmount(...)' in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php:37
+Stack trace:
+#0 /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/PurchaseWizard.php(435): WayForPay\SDK\Wizard\BaseWizard->check()
+#1 /home/axiliumb/public_html/widget.php(35): WayForPay\SDK\Wizard\PurchaseWizard->getForm()
+#2 /home/axiliumb/public_html/patient.php(92): create_widget(Array)
+#3 {main}
+  thrown in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php on line 37
+[08-Mar-2020 20:51:31 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Some arguments missed: amount. Check next methods are called: 
+
+setAmount(...)' in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php:37
+Stack trace:
+#0 /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/PurchaseWizard.php(435): WayForPay\SDK\Wizard\BaseWizard->check()
+#1 /home/axiliumb/public_html/widget.php(35): WayForPay\SDK\Wizard\PurchaseWizard->getForm()
+#2 /home/axiliumb/public_html/patient.php(92): create_widget(Array)
+#3 {main}
+  thrown in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php on line 37
+[08-Mar-2020 22:05:11 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/axiliumb/public_html/curl.php on line 11
+[08-Mar-2020 23:09:42 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Some arguments missed: amount. Check next methods are called: 
+
+setAmount(...)' in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php:37
+Stack trace:
+#0 /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/PurchaseWizard.php(435): WayForPay\SDK\Wizard\BaseWizard->check()
+#1 /home/axiliumb/public_html/widget.php(35): WayForPay\SDK\Wizard\PurchaseWizard->getForm()
+#2 /home/axiliumb/public_html/patient.php(92): create_widget(Array)
+#3 {main}
+  thrown in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php on line 37
+[09-Mar-2020 12:17:22 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Some arguments missed: amount. Check next methods are called: 
+
+setAmount(...)' in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php:37
+Stack trace:
+#0 /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/PurchaseWizard.php(435): WayForPay\SDK\Wizard\BaseWizard->check()
+#1 /home/axiliumb/public_html/widget.php(35): WayForPay\SDK\Wizard\PurchaseWizard->getForm()
+#2 /home/axiliumb/public_html/patient.php(92): create_widget(Array)
+#3 {main}
+  thrown in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php on line 37
+[09-Mar-2020 12:17:33 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 409
+[09-Mar-2020 12:17:33 UTC] PHP Warning:  file_get_contents(patients/comments/idcom.json): failed to open stream: No such file or directory in /home/axiliumb/public_html/patient.php on line 571
+[09-Mar-2020 12:17:49 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 409
+[09-Mar-2020 12:17:49 UTC] PHP Warning:  file_get_contents(patients/comments/idcom.json): failed to open stream: No such file or directory in /home/axiliumb/public_html/patient.php on line 571
+[09-Mar-2020 16:16:14 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/axiliumb/public_html/rb.php on line 6384
+[09-Mar-2020 16:16:14 UTC] PHP Fatal error:  Uncaught exception 'RedBeanPHP\RedException' with message 'Identifier does not conform to RedBeanPHP security policies.' in /home/axiliumb/public_html/rb.php:5985
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(6051): RedBeanPHP\QueryWriter\AQueryWriter->check('select count(id...')
+#1 /home/axiliumb/public_html/rb.php(6390): RedBeanPHP\QueryWriter\AQueryWriter->esc('select count(id...')
+#2 /home/axiliumb/public_html/rb.php(9073): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordCount('select count(id...', Array, Array, Array)
+#3 /home/axiliumb/public_html/rb.php(10140): RedBeanPHP\Repository->count('SELECT COUNT(id...', Array, Array)
+#4 /home/axiliumb/public_html/rb.php(13850): RedBeanPHP\OODB->count('SELECT COUNT(id...', Array, Array)
+#5 /home/axiliumb/public_html/curl.php(11): RedBeanPHP\Facade::count('SELECT COUNT(id...', Array)
+#6 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 5985
+[09-Mar-2020 16:20:20 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/axiliumb/public_html/rb.php on line 6384
+[09-Mar-2020 16:20:20 UTC] PHP Fatal error:  Uncaught exception 'RedBeanPHP\RedException' with message 'Identifier does not conform to RedBeanPHP security policies.' in /home/axiliumb/public_html/rb.php:5985
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(6051): RedBeanPHP\QueryWriter\AQueryWriter->check('select count(id...')
+#1 /home/axiliumb/public_html/rb.php(6390): RedBeanPHP\QueryWriter\AQueryWriter->esc('select count(id...')
+#2 /home/axiliumb/public_html/rb.php(9073): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordCount('select count(id...', Array, Array, Array)
+#3 /home/axiliumb/public_html/rb.php(10140): RedBeanPHP\Repository->count('SELECT COUNT(id...', Array, Array)
+#4 /home/axiliumb/public_html/rb.php(13850): RedBeanPHP\OODB->count('SELECT COUNT(id...', Array, Array)
+#5 /home/axiliumb/public_html/curl.php(11): RedBeanPHP\Facade::count('SELECT COUNT(id...', Array)
+#6 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 5985
+[09-Mar-2020 16:26:05 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/axiliumb/public_html/rb.php on line 6384
+[09-Mar-2020 16:26:05 UTC] PHP Fatal error:  Uncaught exception 'RedBeanPHP\RedException' with message 'Identifier does not conform to RedBeanPHP security policies.' in /home/axiliumb/public_html/rb.php:5985
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(6051): RedBeanPHP\QueryWriter\AQueryWriter->check('select count(id...')
+#1 /home/axiliumb/public_html/rb.php(6390): RedBeanPHP\QueryWriter\AQueryWriter->esc('select count(id...')
+#2 /home/axiliumb/public_html/rb.php(9073): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordCount('select count(id...', Array, Array, Array)
+#3 /home/axiliumb/public_html/rb.php(10140): RedBeanPHP\Repository->count('SELECT COUNT(id...', Array, Array)
+#4 /home/axiliumb/public_html/rb.php(13850): RedBeanPHP\OODB->count('SELECT COUNT(id...', Array, Array)
+#5 /home/axiliumb/public_html/curl.php(11): RedBeanPHP\Facade::count('SELECT COUNT(id...', Array)
+#6 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 5985
+[09-Mar-2020 16:42:47 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/axiliumb/public_html/rb.php on line 6384
+[09-Mar-2020 16:42:47 UTC] PHP Fatal error:  Uncaught exception 'RedBeanPHP\RedException' with message 'Identifier does not conform to RedBeanPHP security policies.' in /home/axiliumb/public_html/rb.php:5985
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(6051): RedBeanPHP\QueryWriter\AQueryWriter->check('select count(id...')
+#1 /home/axiliumb/public_html/rb.php(6390): RedBeanPHP\QueryWriter\AQueryWriter->esc('select count(id...')
+#2 /home/axiliumb/public_html/rb.php(9073): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordCount('select count(id...', Array, Array, Array)
+#3 /home/axiliumb/public_html/rb.php(10140): RedBeanPHP\Repository->count('SELECT COUNT(id...', Array, Array)
+#4 /home/axiliumb/public_html/rb.php(13850): RedBeanPHP\OODB->count('SELECT COUNT(id...', Array, Array)
+#5 /home/axiliumb/public_html/curl.php(11): RedBeanPHP\Facade::count('SELECT COUNT(id...', Array)
+#6 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 5985
+[09-Mar-2020 17:12:57 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/axiliumb/public_html/rb.php on line 6384
+[09-Mar-2020 17:12:57 UTC] PHP Fatal error:  Uncaught exception 'RedBeanPHP\RedException' with message 'Identifier does not conform to RedBeanPHP security policies.' in /home/axiliumb/public_html/rb.php:5985
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(6051): RedBeanPHP\QueryWriter\AQueryWriter->check('select count(id...')
+#1 /home/axiliumb/public_html/rb.php(6390): RedBeanPHP\QueryWriter\AQueryWriter->esc('select count(id...')
+#2 /home/axiliumb/public_html/rb.php(9073): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordCount('select count(id...', Array, Array, Array)
+#3 /home/axiliumb/public_html/rb.php(10140): RedBeanPHP\Repository->count('SELECT COUNT(id...', Array, Array)
+#4 /home/axiliumb/public_html/rb.php(13850): RedBeanPHP\OODB->count('SELECT COUNT(id...', Array, Array)
+#5 /home/axiliumb/public_html/curl.php(11): RedBeanPHP\Facade::count('SELECT COUNT(id...', Array)
+#6 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 5985
+[09-Mar-2020 17:43:50 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/axiliumb/public_html/rb.php on line 6384
+[09-Mar-2020 17:43:50 UTC] PHP Fatal error:  Uncaught exception 'RedBeanPHP\RedException' with message 'Identifier does not conform to RedBeanPHP security policies.' in /home/axiliumb/public_html/rb.php:5985
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(6051): RedBeanPHP\QueryWriter\AQueryWriter->check('select count(id...')
+#1 /home/axiliumb/public_html/rb.php(6390): RedBeanPHP\QueryWriter\AQueryWriter->esc('select count(id...')
+#2 /home/axiliumb/public_html/rb.php(9073): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordCount('select count(id...', Array, Array, Array)
+#3 /home/axiliumb/public_html/rb.php(10140): RedBeanPHP\Repository->count('SELECT COUNT(id...', Array, Array)
+#4 /home/axiliumb/public_html/rb.php(13850): RedBeanPHP\OODB->count('SELECT COUNT(id...', Array, Array)
+#5 /home/axiliumb/public_html/curl.php(11): RedBeanPHP\Facade::count('SELECT COUNT(id...', Array)
+#6 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 5985
+[09-Mar-2020 17:59:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 17:59:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 17:59:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:17:40 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e64e934c3d38' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:17:40 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:18:07 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:18:07 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:20:33 UTC] PHP Fatal error:  Cannot use object of type RedBeanPHP\BeanCollection as array in /home/axiliumb/public_html/profiles.php on line 322
+[09-Mar-2020 18:20:33 UTC] PHP Fatal error:  Cannot use object of type RedBeanPHP\BeanCollection as array in /home/axiliumb/public_html/profile.php on line 264
+[09-Mar-2020 18:20:45 UTC] PHP Fatal error:  Cannot use object of type RedBeanPHP\BeanCollection as array in /home/axiliumb/public_html/profile.php on line 264
+[09-Mar-2020 18:20:45 UTC] PHP Fatal error:  Cannot use object of type RedBeanPHP\BeanCollection as array in /home/axiliumb/public_html/profiles.php on line 322
+[09-Mar-2020 18:20:55 UTC] PHP Fatal error:  Cannot use object of type RedBeanPHP\BeanCollection as array in /home/axiliumb/public_html/profile.php on line 264
+[09-Mar-2020 18:22:16 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:22:16 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:23:28 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[09-Mar-2020 18:25:13 UTC] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in /home/axiliumb/public_html/rb.php on line 6043
+[09-Mar-2020 18:25:13 UTC] PHP Fatal error:  Uncaught exception 'RedBeanPHP\RedException' with message 'Identifier does not conform to RedBeanPHP security policies.' in /home/axiliumb/public_html/rb.php:5985
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(6051): RedBeanPHP\QueryWriter\AQueryWriter->check('SELECT `full_na...')
+#1 /home/axiliumb/public_html/rb.php(6164): RedBeanPHP\QueryWriter\AQueryWriter->esc('SELECT `full_na...')
+#2 /home/axiliumb/public_html/rb.php(8887): RedBeanPHP\QueryWriter\AQueryWriter->queryRecord('SELECT `full_na...', Array, 'Array LIMIT 1 ', Array)
+#3 /home/axiliumb/public_html/rb.php(9987): RedBeanPHP\Repository->find('SELECT `full_na...', Array, 'Array LIMIT 1 ', Array)
+#4 /home/axiliumb/public_html/rb.php(10547): RedBeanPHP\OODB->find('SELECT `full_na...', Array, 'Array LIMIT 1 ', Array)
+#5 /home/axiliumb/public_html/rb.php(10592): RedBeanPHP\Finder->find('SELECT `full_na...', 'Array LIMIT 1 ', Array)
+#6 /home/axiliumb/public_html/rb.php(13142): RedBeanPHP\Finder->findOne('SELECT `full_na...', Array, Array)
+#7 /home/axili in /home/axiliumb/public_html/rb.php on line 5985
+[09-Mar-2020 18:25:17 UTC] PHP Warning:  strtoupper() expects parameter 1 to be string, array given in /home/axiliumb/public_html/rb.php on line 6043
+[09-Mar-2020 18:25:17 UTC] PHP Fatal error:  Uncaught exception 'RedBeanPHP\RedException' with message 'Identifier does not conform to RedBeanPHP security policies.' in /home/axiliumb/public_html/rb.php:5985
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(6051): RedBeanPHP\QueryWriter\AQueryWriter->check('SELECT `full_na...')
+#1 /home/axiliumb/public_html/rb.php(6164): RedBeanPHP\QueryWriter\AQueryWriter->esc('SELECT `full_na...')
+#2 /home/axiliumb/public_html/rb.php(8887): RedBeanPHP\QueryWriter\AQueryWriter->queryRecord('SELECT `full_na...', Array, 'Array LIMIT 1 ', Array)
+#3 /home/axiliumb/public_html/rb.php(9987): RedBeanPHP\Repository->find('SELECT `full_na...', Array, 'Array LIMIT 1 ', Array)
+#4 /home/axiliumb/public_html/rb.php(10547): RedBeanPHP\OODB->find('SELECT `full_na...', Array, 'Array LIMIT 1 ', Array)
+#5 /home/axiliumb/public_html/rb.php(10592): RedBeanPHP\Finder->find('SELECT `full_na...', 'Array LIMIT 1 ', Array)
+#6 /home/axiliumb/public_html/rb.php(13142): RedBeanPHP\Finder->findOne('SELECT `full_na...', Array, Array)
+#7 /home/axili in /home/axiliumb/public_html/rb.php on line 5985
+[09-Mar-2020 18:26:29 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:26:29 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:30:35 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:30:35 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:34:48 UTC] PHP Fatal error:  Call to undefined method RedBeanPHP\BeanCollection::export() in /home/axiliumb/public_html/profile.php on line 280
+[09-Mar-2020 18:35:17 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:35:17 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:35:37 UTC] PHP Fatal error:  Call to undefined method RedBeanPHP\BeanCollection::export() in /home/axiliumb/public_html/profile.php on line 280
+[09-Mar-2020 18:35:44 UTC] PHP Fatal error:  Call to undefined method RedBeanPHP\BeanCollection::export() in /home/axiliumb/public_html/profile.php on line 280
+[09-Mar-2020 18:36:01 UTC] PHP Fatal error:  Call to undefined method RedBeanPHP\BeanCollection::export() in /home/axiliumb/public_html/profile.php on line 280
+[09-Mar-2020 18:38:11 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:38:11 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:42:32 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:42:32 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:44:24 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[09-Mar-2020 18:46:30 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:46:30 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:47:31 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:47:31 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:50:51 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:50:51 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 18:55:11 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 18:55:11 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:02:10 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:05:42 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:05:42 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:14:51 UTC] PHP Fatal error:  Uncaught exception 'InvalidArgumentException' with message 'Some arguments missed: amount. Check next methods are called: 
+
+setAmount(...)' in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php:37
+Stack trace:
+#0 /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/PurchaseWizard.php(435): WayForPay\SDK\Wizard\BaseWizard->check()
+#1 /home/axiliumb/public_html/widget.php(35): WayForPay\SDK\Wizard\PurchaseWizard->getForm()
+#2 /home/axiliumb/public_html/patient.php(92): create_widget(Array)
+#3 {main}
+  thrown in /home/axiliumb/public_html/vendor/wayforpay/php-sdk/src/Wizard/BaseWizard.php on line 37
+[09-Mar-2020 19:15:33 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[09-Mar-2020 19:18:02 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:18:02 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:19:20 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:25:34 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[09-Mar-2020 19:25:34 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[09-Mar-2020 19:30:09 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:30:09 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:34:28 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:34:28 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:36:36 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:36:36 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:38:35 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:38:35 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:42:53 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:42:53 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:47:44 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:47:44 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:50:18 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:50:18 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:54:32 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:54:32 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:55:02 UTC] PHP Warning:  Illegal string offset 'e3ac72c7d137b934bc6012f21210f1425ae3fef5' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:55:02 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:58:34 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:58:34 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 19:59:33 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 19:59:33 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:03:01 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 20:03:01 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:08:49 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 20:08:49 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:23:41 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 20:23:41 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:25:29 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:25:29 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:30:19 UTC] PHP Warning:  Illegal string offset 'be9f030325e76d0a758d5f9643d9eba858ca7d62' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 20:30:19 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:30:39 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 20:30:39 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:36:30 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'e' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('e', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('e', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('e', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'e', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('e')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:40:34 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[09-Mar-2020 20:48:29 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 20:48:29 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:49:39 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'E' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('E', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('E', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('E', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'E', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('E')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 20:49:39 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'E' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('E', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('E', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('E', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'E', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('E')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 21:04:14 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e64362fa93ef' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 21:04:14 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 21:18:07 UTC] PHP Warning:  Illegal string offset 'b16ed361bb1b2cc62a6efffea0844ec6308d08ba' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 21:18:07 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 21:31:42 UTC] PHP Warning:  Illegal string offset 'aa40309e11c03a615064fee18a5e70c3a8e1bec2' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 21:31:42 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 21:36:27 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[09-Mar-2020 21:36:39 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[09-Mar-2020 21:54:47 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 22:31:14 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 22:31:14 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[09-Mar-2020 22:37:44 UTC] PHP Warning:  Illegal string offset 'a8dad457dc7ad89607cb0b6e1403777e793d0b6a' in /home/axiliumb/public_html/curl.php on line 28
+[09-Mar-2020 22:37:44 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:01:18 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 00:01:26 UTC] PHP Warning:  Illegal string offset 'e3bc1f67d28db469ef771cbae8f1941cf1949ffb' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 00:01:26 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:05:31 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 00:05:31 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:17:06 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:20:38 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:25:18 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 00:40:23 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e63f4892de15' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 00:40:23 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:42:25 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:49:05 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 00:49:05 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:53:14 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 00:53:14 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:54:59 UTC] PHP Warning:  Illegal string offset 'e3ac72c7d137b934bc6012f21210f1425ae3fef5' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 00:54:59 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 00:57:52 UTC] PHP Warning:  Illegal string offset 'a3387ec737b3de0cabdb69e9499b2061d113b67c' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 00:57:52 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 01:19:11 UTC] PHP Warning:  Illegal string offset 'be9f030325e76d0a758d5f9643d9eba858ca7d62' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 01:19:11 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 01:24:09 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'e' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('e', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('e', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('e', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'e', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('e')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 01:28:17 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 01:31:07 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'E' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('E', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('E', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('E', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'E', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('E')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 01:42:51 UTC] PHP Warning:  Illegal string offset 'b16ed361bb1b2cc62a6efffea0844ec6308d08ba' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 01:42:51 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 01:44:18 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e63b0a4c39e2' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 01:44:18 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 01:55:59 UTC] PHP Warning:  Illegal string offset 'aa40309e11c03a615064fee18a5e70c3a8e1bec2' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 01:55:59 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 02:00:59 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 02:12:03 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 02:14:45 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 02:43:27 UTC] PHP Warning:  Illegal string offset 'a8dad457dc7ad89607cb0b6e1403777e793d0b6a' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 02:43:27 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 02:47:13 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 02:47:13 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 02:50:20 UTC] PHP Warning:  Illegal string offset 'a8dad457dc7ad89607cb0b6e1403777e793d0b6a' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 02:50:20 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 02:56:18 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 02:56:18 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 03:49:02 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 03:50:05 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 03:50:05 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 04:04:29 UTC] PHP Warning:  Illegal string offset 'e3bc1f67d28db469ef771cbae8f1941cf1949ffb' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 04:04:29 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 04:05:19 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 04:13:18 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 04:13:20 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 04:31:48 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 04:31:48 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 04:37:25 UTC] PHP Warning:  Illegal string offset 'e3ac72c7d137b934bc6012f21210f1425ae3fef5' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 04:37:25 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 04:44:09 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e62af7c5f4d8' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 04:44:09 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 04:44:19 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 04:44:19 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 05:20:12 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 05:31:35 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 05:43:26 UTC] PHP Warning:  Illegal string offset 'be9f030325e76d0a758d5f9643d9eba858ca7d62' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 05:43:26 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 05:54:45 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 06:00:15 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 06:00:15 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 06:02:36 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:02:41 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:02:46 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:03:04 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:03:08 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:03:11 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:03:26 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:03:29 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:03:31 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:03:33 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 06:08:04 UTC] PHP Warning:  Illegal string offset 'e3bc1f67d28db469ef771cbae8f1941cf1949ffb' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 06:08:04 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 06:08:15 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'e' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('e', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('e', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('e', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'e', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('e')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 06:25:28 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 06:50:35 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 07:04:42 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 07:08:52 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e64358a3d6bf' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 07:08:52 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 07:18:57 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'E' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('E', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('E', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('E', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'E', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('E')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 07:18:57 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'E' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('E', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('E', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('E', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'E', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('E')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 07:26:23 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e63b04126f00' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 07:26:23 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 07:54:12 UTC] PHP Warning:  Illegal string offset 'e4525ed4826d26f6646539de384277a36d04f5ee' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 07:54:12 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 08:00:35 UTC] PHP Warning:  Illegal string offset 'e3ac72c7d137b934bc6012f21210f1425ae3fef5' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 08:00:35 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 08:02:03 UTC] PHP Warning:  Illegal string offset '67e59ac9a2922ba57d9554911b0d7f9d0d2b54bf' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 08:02:03 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery(' ', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute(' ', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec(' ', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', ' ', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec(' ')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 08:32:54 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e62af7c5f4d8' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 08:32:54 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:15:12 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:15:14 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'F' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('F', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('F', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('F', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'F', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('F')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:19:33 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:19:33 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'F' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('F', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('F', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('F', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'F', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('F')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:23:43 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:23:43 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'F' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('F', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('F', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('F', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'F', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('F')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:28:24 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:28:29 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'F' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('F', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('F', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('F', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'F', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('F')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:35:35 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:35:43 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'F' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('F', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('F', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('F', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'F', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('F')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:37:30 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 09:48:31 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 09:48:37 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'F' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('F', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('F', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('F', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'F', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('F')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 10:32:17 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 10:57:16 UTC] PHP Warning:  Illegal string offset 'be9f030325e76d0a758d5f9643d9eba858ca7d62' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 10:57:16 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 11:46:24 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'e' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('e', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('e', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('e', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'e', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('e')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:19:38 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e64358a3d6bf' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:19:38 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:27:13 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'E' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('E', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('E', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('E', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'E', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('E')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:30:42 UTC] PHP Warning:  Illegal string offset 'WFP-4435481-5e63b04126f00' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:30:43 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:47:15 UTC] PHP Warning:  Illegal string offset 'f97c84b1b8839ca5c2aea62b5498e7b3fcac53d0' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:47:15 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:51:31 UTC] PHP Warning:  Illegal string offset 'b5dba0b41a9528e6fb01a8596e75ace577f754a5' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:51:31 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:51:35 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'O' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('O', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('O', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('O', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'O', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('O')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:51:38 UTC] PHP Warning:  Illegal string offset 'f97c84b1b8839ca5c2aea62b5498e7b3fcac53d0' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:51:38 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:52:47 UTC] PHP Warning:  Illegal string offset 'c4e898f4213544f91ebacdad0e825dcf3dd4fc3c' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:52:47 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:55:34 UTC] PHP Warning:  Illegal string offset '2e5fd52d36d8de1f9a4ae0c143fd66691b68365d' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:55:34 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'L' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('L', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('L', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('L', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'L', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('L')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:55:44 UTC] PHP Warning:  Illegal string offset 'b5dba0b41a9528e6fb01a8596e75ace577f754a5' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:55:44 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:55:45 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'O' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('O', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('O', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('O', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'O', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('O')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:55:47 UTC] PHP Warning:  Illegal string offset 'f97c84b1b8839ca5c2aea62b5498e7b3fcac53d0' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:55:47 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 13:59:50 UTC] PHP Warning:  Illegal string offset '2e5fd52d36d8de1f9a4ae0c143fd66691b68365d' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 13:59:50 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'L' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('L', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('L', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('L', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'L', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('L')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:00:00 UTC] PHP Warning:  Illegal string offset 'b5dba0b41a9528e6fb01a8596e75ace577f754a5' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 14:00:00 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:00:01 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'O' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('O', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('O', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('O', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'O', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('O')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:00:16 UTC] PHP Warning:  Illegal string offset 'a8dad457dc7ad89607cb0b6e1403777e793d0b6a' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 14:00:16 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:04:02 UTC] PHP Warning:  Illegal string offset '2e5fd52d36d8de1f9a4ae0c143fd66691b68365d' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 14:04:02 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'L' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('L', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('L', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('L', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'L', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('L')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:04:08 UTC] PHP Warning:  Illegal string offset 'f97c84b1b8839ca5c2aea62b5498e7b3fcac53d0' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 14:04:08 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:04:10 UTC] PHP Warning:  Illegal string offset 'b5dba0b41a9528e6fb01a8596e75ace577f754a5' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 14:04:10 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:04:38 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'O' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('O', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('O', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('O', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'O', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('O')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:10:59 UTC] PHP Warning:  Illegal string offset '2e5fd52d36d8de1f9a4ae0c143fd66691b68365d' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 14:10:59 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'L' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('L', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('L', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('L', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'L', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('L')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:19:00 UTC] PHP Warning:  Illegal string offset 'f97c84b1b8839ca5c2aea62b5498e7b3fcac53d0' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 14:19:00 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:19:30 UTC] PHP Warning:  Illegal string offset 'b5dba0b41a9528e6fb01a8596e75ace577f754a5' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 14:19:30 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 14:25:31 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'O' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('O', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('O', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('O', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'O', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('O')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 15:14:13 UTC] PHP Warning:  Illegal string offset '2e5fd52d36d8de1f9a4ae0c143fd66691b68365d' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 15:14:13 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'L' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('L', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('L', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('L', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'L', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('L')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 17:02:06 UTC] PHP Warning:  Illegal string offset 'f97c84b1b8839ca5c2aea62b5498e7b3fcac53d0' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 17:02:06 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 17:06:37 UTC] PHP Warning:  Illegal string offset 'b5dba0b41a9528e6fb01a8596e75ace577f754a5' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 17:06:37 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 17:14:14 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/curl.php on line 10
+[10-Mar-2020 17:19:38 UTC] PHP Warning:  Illegal string offset 'eba2476aa1805f51e99f677b329c2be18c591246' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 17:19:38 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 17:24:48 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'O' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('O', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('O', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('O', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'O', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('O')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 17:27:27 UTC] PHP Warning:  Illegal string offset 'e3bc1f67d28db469ef771cbae8f1941cf1949ffb' in /home/axiliumb/public_html/curl.php on line 28
+[10-Mar-2020 17:27:27 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'D' at line 1
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('D', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('D', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('D', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', 'D', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('D')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 17:45:08 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 18:08:18 UTC] PHP Warning:  Division by zero in /home/axiliumb/public_html/patient.php on line 408
+[10-Mar-2020 18:08:18 UTC] PHP Warning:  file_get_contents(patients/comments/idcom.json): failed to open stream: No such file or directory in /home/axiliumb/public_html/patient.php on line 570
+[10-Mar-2020 18:10:23 UTC] PHP Fatal error:  Uncaught [42000] - SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty
+trace: #0 /home/axiliumb/public_html/rb.php(1162): RedBeanPHP\Driver\RPDO->runQuery('', Array)
+#1 /home/axiliumb/public_html/rb.php(4234): RedBeanPHP\Driver\RPDO->Execute('', Array)
+#2 /home/axiliumb/public_html/rb.php(12311): RedBeanPHP\Adapter\DBAdapter->exec('', Array)
+#3 /home/axiliumb/public_html/rb.php(13306): RedBeanPHP\Facade::query('exec', '', Array)
+#4 /home/axiliumb/public_html/curl.php(28): RedBeanPHP\Facade::exec('')
+#5 {main}
+  thrown in /home/axiliumb/public_html/rb.php on line 810
+[10-Mar-2020 18:42:52 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[10-Mar-2020 18:43:21 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 19:18:32 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/profiles.php on line 44
+[10-Mar-2020 20:21:42 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[10-Mar-2020 22:03:19 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[10-Mar-2020 22:03:24 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[10-Mar-2020 22:06:08 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[10-Mar-2020 22:06:51 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[10-Mar-2020 22:07:12 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[10-Mar-2020 22:08:19 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[10-Mar-2020 22:11:30 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[11-Mar-2020 07:09:20 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[11-Mar-2020 08:43:37 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:27 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:30 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:31 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:33 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:35 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:39 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:43 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:47 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:48 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:00:49 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:02:50 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:02:51 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:04:07 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:04:35 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:04:36 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:04:39 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:05:22 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:06:43 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:06:47 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[13-Mar-2020 12:06:50 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[14-Mar-2020 19:07:10 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[16-Mar-2020 12:58:57 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[16-Mar-2020 12:58:59 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[16-Mar-2020 12:59:02 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[16-Mar-2020 19:57:13 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[17-Mar-2020 19:32:00 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 14
+[21-Mar-2020 19:22:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'Could not connect to database (kobka).' in /home/axiliumb/public_html/rb.php:1056
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(777): RedBeanPHP\Driver\RPDO->connect()
+#1 /home/axiliumb/public_html/rb.php(1181): RedBeanPHP\Driver\RPDO->runQuery('SELECT `patient...', Array, Array)
+#2 /home/axiliumb/public_html/rb.php(4334): RedBeanPHP\Driver\RPDO->GetCursor('SELECT `patient...', Array)
+#3 /home/axiliumb/public_html/rb.php(6206): RedBeanPHP\Adapter\DBAdapter->getCursor('SELECT `patient...', Array)
+#4 /home/axiliumb/public_html/rb.php(8918): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordWithCursor('patients', 'WHERE `immedian...', Array)
+#5 /home/axiliumb/public_html/rb.php(10001): RedBeanPHP\Repository->findCollection('patients', 'WHERE `immedian...', Array)
+#6 /home/axiliumb/public_html/rb.php(10663): RedBeanPHP\OODB->findCollection('patients', 'WHERE `immedian...', Array)
+#7 /home/axiliumb/public_html/rb.php(13184): RedBeanPHP\Finder->findCollection('patie in /home/axiliumb/public_html/rb.php on line 1056
+[21-Mar-2020 19:22:46 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'Could not connect to database (kobka).' in /home/axiliumb/public_html/rb.php:1056
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(777): RedBeanPHP\Driver\RPDO->connect()
+#1 /home/axiliumb/public_html/rb.php(1080): RedBeanPHP\Driver\RPDO->runQuery('SELECT `patient...', Array)
+#2 /home/axiliumb/public_html/rb.php(4245): RedBeanPHP\Driver\RPDO->GetAll('SELECT `patient...', Array)
+#3 /home/axiliumb/public_html/rb.php(6180): RedBeanPHP\Adapter\DBAdapter->get('SELECT `patient...', Array)
+#4 /home/axiliumb/public_html/rb.php(8887): RedBeanPHP\QueryWriter\AQueryWriter->queryRecord('patients', Array, 'WHERE `id` = ? ...', Array)
+#5 /home/axiliumb/public_html/rb.php(9987): RedBeanPHP\Repository->find('patients', Array, 'WHERE `id` = ? ...', Array)
+#6 /home/axiliumb/public_html/rb.php(10547): RedBeanPHP\OODB->find('patients', Array, 'WHERE `id` = ? ...', Array)
+#7 /home/axiliumb/public_html/rb.php(10592): RedBeanPHP\Finder->find('patients', 'WHERE `id` = ? ...', Array)
+# in /home/axiliumb/public_html/rb.php on line 1056
+[21-Mar-2020 19:22:50 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'Could not connect to database (kobka).' in /home/axiliumb/public_html/rb.php:1056
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(777): RedBeanPHP\Driver\RPDO->connect()
+#1 /home/axiliumb/public_html/rb.php(1181): RedBeanPHP\Driver\RPDO->runQuery('SELECT `patient...', Array, Array)
+#2 /home/axiliumb/public_html/rb.php(4334): RedBeanPHP\Driver\RPDO->GetCursor('SELECT `patient...', Array)
+#3 /home/axiliumb/public_html/rb.php(6206): RedBeanPHP\Adapter\DBAdapter->getCursor('SELECT `patient...', Array)
+#4 /home/axiliumb/public_html/rb.php(8918): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordWithCursor('patients', 'WHERE `immedian...', Array)
+#5 /home/axiliumb/public_html/rb.php(10001): RedBeanPHP\Repository->findCollection('patients', 'WHERE `immedian...', Array)
+#6 /home/axiliumb/public_html/rb.php(10663): RedBeanPHP\OODB->findCollection('patients', 'WHERE `immedian...', Array)
+#7 /home/axiliumb/public_html/rb.php(13184): RedBeanPHP\Finder->findCollection('patie in /home/axiliumb/public_html/rb.php on line 1056
+[21-Mar-2020 19:23:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'Could not connect to database (kobka).' in /home/axiliumb/public_html/rb.php:1056
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(777): RedBeanPHP\Driver\RPDO->connect()
+#1 /home/axiliumb/public_html/rb.php(1181): RedBeanPHP\Driver\RPDO->runQuery('SELECT `patient...', Array, Array)
+#2 /home/axiliumb/public_html/rb.php(4334): RedBeanPHP\Driver\RPDO->GetCursor('SELECT `patient...', Array)
+#3 /home/axiliumb/public_html/rb.php(6206): RedBeanPHP\Adapter\DBAdapter->getCursor('SELECT `patient...', Array)
+#4 /home/axiliumb/public_html/rb.php(8918): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordWithCursor('patients', 'WHERE `immedian...', Array)
+#5 /home/axiliumb/public_html/rb.php(10001): RedBeanPHP\Repository->findCollection('patients', 'WHERE `immedian...', Array)
+#6 /home/axiliumb/public_html/rb.php(10663): RedBeanPHP\OODB->findCollection('patients', 'WHERE `immedian...', Array)
+#7 /home/axiliumb/public_html/rb.php(13184): RedBeanPHP\Finder->findCollection('patie in /home/axiliumb/public_html/rb.php on line 1056
+[21-Mar-2020 19:23:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'Could not connect to database (kobka).' in /home/axiliumb/public_html/rb.php:1056
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(777): RedBeanPHP\Driver\RPDO->connect()
+#1 /home/axiliumb/public_html/rb.php(1181): RedBeanPHP\Driver\RPDO->runQuery('SELECT `patient...', Array, Array)
+#2 /home/axiliumb/public_html/rb.php(4334): RedBeanPHP\Driver\RPDO->GetCursor('SELECT `patient...', Array)
+#3 /home/axiliumb/public_html/rb.php(6206): RedBeanPHP\Adapter\DBAdapter->getCursor('SELECT `patient...', Array)
+#4 /home/axiliumb/public_html/rb.php(8918): RedBeanPHP\QueryWriter\AQueryWriter->queryRecordWithCursor('patients', 'WHERE `immedian...', Array)
+#5 /home/axiliumb/public_html/rb.php(10001): RedBeanPHP\Repository->findCollection('patients', 'WHERE `immedian...', Array)
+#6 /home/axiliumb/public_html/rb.php(10663): RedBeanPHP\OODB->findCollection('patients', 'WHERE `immedian...', Array)
+#7 /home/axiliumb/public_html/rb.php(13184): RedBeanPHP\Finder->findCollection('patie in /home/axiliumb/public_html/rb.php on line 1056
+[21-Mar-2020 19:23:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'Could not connect to database (kobka).' in /home/axiliumb/public_html/rb.php:1056
+Stack trace:
+#0 /home/axiliumb/public_html/rb.php(777): RedBeanPHP\Driver\RPDO->connect()
+#1 /home/axiliumb/public_html/rb.php(1080): RedBeanPHP\Driver\RPDO->runQuery('SELECT `users`....', Array)
+#2 /home/axiliumb/public_html/rb.php(4245): RedBeanPHP\Driver\RPDO->GetAll('SELECT `users`....', Array)
+#3 /home/axiliumb/public_html/rb.php(6180): RedBeanPHP\Adapter\DBAdapter->get('SELECT `users`....', Array)
+#4 /home/axiliumb/public_html/rb.php(8887): RedBeanPHP\QueryWriter\AQueryWriter->queryRecord('users', Array, 'email = ? LIMIT...', Array)
+#5 /home/axiliumb/public_html/rb.php(9987): RedBeanPHP\Repository->find('users', Array, 'email = ? LIMIT...', Array)
+#6 /home/axiliumb/public_html/rb.php(10547): RedBeanPHP\OODB->find('users', Array, 'email = ? LIMIT...', Array)
+#7 /home/axiliumb/public_html/rb.php(10592): RedBeanPHP\Finder->find('users', 'email = ? LIMIT...', Array)
+#8 /home/axil in /home/axiliumb/public_html/rb.php on line 1056
+[23-Mar-2020 19:55:40 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 16
+[31-Mar-2020 12:34:27 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 16
+[01-Apr-2020 19:16:54 UTC] PHP Warning:  unlink(images/49PhotoCollage_20200313_144912166.jpg): No such file or directory in /home/axiliumb/public_html/profile.php on line 89
+[06-Apr-2020 10:15:18 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 16
+[06-Apr-2020 10:15:22 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 16
+[06-Apr-2020 10:15:24 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 16
+[06-Apr-2020 10:15:30 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 16
+[06-Apr-2020 10:16:45 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 16
+[08-Apr-2020 07:31:35 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 16
+[09-Apr-2020 03:03:34 UTC] PHP Fatal error:  Call to a member function export() on null in /home/axiliumb/public_html/patient.php on line 16

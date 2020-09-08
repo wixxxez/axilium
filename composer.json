@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "wayforpay/php-sdk": "^1.0"
+    }
+}

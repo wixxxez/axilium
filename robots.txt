@@ -1,0 +1,17 @@
+
+
+User-agent: *
+Disallow: /curl.php
+Disallow: /*.css$
+Disallow: /*.js$
+Disallow: /*.json$
+Disallow: /login.php
+Disallow: /logout.php
+Disallow: /profile.php
+#хуй знає чи добавляти profiles.php
+Disallow: /rb.php
+Disallow: /update.php
+Disallow: /reset.php
+Disallow: /mail.php
+
+Host:axilium.best
